@@ -1,0 +1,4 @@
+{
+    "extensions.showRecommendationsOnlyOnDemand": true,
+    "git.autofetch": true
+}
